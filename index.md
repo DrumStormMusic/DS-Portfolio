@@ -9,8 +9,10 @@
 - PC-DMIS
 
 ## Skills To Develop,
-Python/SQL
+Python
+SQL
 R
-Fortan/Julia
+Fortan
+Julia
 Java/C++
 Scientic programming
