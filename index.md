@@ -1,31 +1,28 @@
-## A bit about myself,
-I'm currently enrolled at Oregon State University as a transfer student from my previous degree in Graphic Design. The current degree I'm pursuing is Data Science with the possibility of a lateral move into Mechanical Engineering. In order for that to happen, I just need to pass a higher-level math class to become enrolled in Mechanical Engineering. My mind is completely made up whether I want to pursue that degree or not.
+## Sean McKinley
+Contact: sean.mckinley2024@outlook.com
+GitHub: github.com/DrumStormMusic
 
-A few things I'm aiming to pursue are below:
-1) Placing a primary focus on acheiving my degree at Oregon State University.
-2) Once I receive this degree, I'll place my focus on being hired by a well-recognized company that will become a streamline into greater success for myself and my family.
-   
-One interesting fact is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you can find them at https://www.youtube.com/@drumstorm
+## Biography
+I'm currently enrolled at Oregon State University as a transfer student from my previous degree in Graphic Design. The current degree I'm pursuing is Data Science with the goal to fill a position relating to Environmental Data Analysis or Conservation Data Science.
+
+The vital nature of these roles is at a crucial intersection of big ecological data and realworld environmental action. Traditional conservation relies heavily on field observations, but modern data science turns massive, complex steams of information into clear tools for saving ecosystems. This is what I strive to be part of.
+
+With this said, the previous positions I’ve held are rather tech driven. This ranges from database construction to program writing. The current position I hold strongly ties to tech related responsibilities as well. One example is the development of meticulous
+calibration/data profiles for new equipment and instrumentation under strict deadlines to streamline production start-up.
+
+## The Human Element,
+One interesting fact about me is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you could find them at https://www.youtube.com/@drumstorm
 
 ## Current Skills
-- Data collection
-- Ground-up database building
-- Data Analysis
-- Data validation
-- Data integrity
-- Error tracking
-- Programming
-- PC-DMIS
-
-## Skills To Develop
-- Python/SQL
-- R
-- Fortan/Julia
-- Java/C++
-- Scientic programming
-
-## Projects
-Projects in progress — Check back soon!
+• Data collection
+• Ground-up database building
+• Data Analysis
+• Data validation
+• Data integrity
+• Error tracking
+• Programming
+• PC-DMIS
+• Allen-Bradley Automation Components
 
 ## A Career Goals Reflection in Data Science
 My current goal in data science is to fulfill a role as a Conservation Data Analyst or Environmental Data Scientist to help sustain Great Lakes ecosystems. The focus will be bridging raw environmental monitoring with predictive decision-support tools for resource managers. The Great Lakes basin urgently needs models that forecasts rapid ecological shifts in real time. Some examples are modeling invasive species spread, fluctuating water levels, and harmful algal bloom.
@@ -45,3 +42,5 @@ Through essential programming languages and platforms such as Python, R, xarray,
 ## Cooperative Institute for Great Lakes Research
 - This is a research partnership hosted by the University of Michigan’s School of Environment and Sustainability (SEAS). This partnership works specifically with the National Oceanic and Atmospheric Administration (NOAA), Great Lakes Environmental Research Laboratory (GLERL), universities, nonprofits, and businesses that study and protect the Great Lakes.
 
+## Projects
+Projects in progress — Check back soon!
