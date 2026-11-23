@@ -27,7 +27,7 @@ One interesting fact is that I have a YouTube channel that has a series of music
 ## Projects
 Projects in progress — Check back soon!
 
-A Career Goals Reflection in Data Science
+## A Career Goals Reflection in Data Science
 My current goal in data science is to fulfill a role as a Conservation Data Analyst or Environmental Data Scientist to help sustain Great Lakes ecosystems. The focus will be bridging raw environmental monitoring with predictive decision-support tools for resource managers. The Great Lakes basin urgently needs models that forecasts rapid ecological shifts in real time. Some examples are modeling invasive species spread, fluctuating water levels, and harmful algal bloom.
 
 This milestone is imperative due to the fragile nature of the Great Lakes ecosystem. The Great Lakes span eight U.S. states, two Canadian provinces, and numerous Tribal nations. The basin supports major agriculture and dairy production, plus tens of billions of dollars annually in boating, fishing, hunting, and wildlife watching. The basin includes 25% of Canada’s and 7% of the U.S.’s farmlands, and its waters sustain local economies and wildlife habitats.
