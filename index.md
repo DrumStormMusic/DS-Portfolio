@@ -1,6 +1,6 @@
 ## Sean McKinley
 Contact: sean.mckinley2024@outlook.com
-GitHub: github.com/DrumStormMusic.com
+github.com/DrumStormMusic
 
 ## Biography
 I'm currently enrolled at Oregon State University as a transfer student from my previous degree in Graphic Design. The current degree I'm pursuing is Data Science with the goal to fill a position relating to Environmental Data Analysis or Conservation Data Science.
