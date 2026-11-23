@@ -10,15 +10,15 @@ calibration/data profiles for new equipment and instrumentation under strict dea
 One interesting fact about me is that I have a YouTube channel that has a series of music videos I've created. If anyone's interested, you could find them at https://www.youtube.com/@drumstorm
 
 ## Current Skills
-• Data collection
-• Ground-up database building
-• Data Analysis
-• Data validation
-• Data integrity
-• Error tracking
-• Programming
-• PC-DMIS
-• Allen-Bradley Automation Components
+- Data collection
+- Ground-up database building
+- Data Analysis
+- Data validation
+- Data integrity
+- Error tracking
+- Programming
+- PC-DMIS
+- Allen-Bradley Automation Components
 
 ## A Career Goals Reflection in Data Science
 My current goal in data science is to fulfill a role as a Conservation Data Analyst or Environmental Data Scientist to help sustain Great Lakes ecosystems. The focus will be bridging raw environmental monitoring with predictive decision-support tools for resource managers. The Great Lakes basin urgently needs models that forecasts rapid ecological shifts in real time. Some examples are modeling invasive species spread, fluctuating water levels, and harmful algal bloom.
